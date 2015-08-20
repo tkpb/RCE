@@ -1,4 +1,7 @@
 # RCE
+![build](https://travis-ci.org/tkpb/RCE.svg) ![estado](https://img.shields.io/badge/state-alpha-red.svg) ![licença](https://img.shields.io/badge/license-GPLv3-blue.svg)
+
+###Resumo
 Registrador Constante de Entrada. Registra constantemente a entrada de dados pelo teclado e mouse e salva em intervalos determinados de acordo com a configuração do usuário.
 
 ###Objetivo
